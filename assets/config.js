@@ -1,0 +1,1 @@
+window.TG_CFG={"api": "https://script.google.com/macros/s/AKfycbzhJAVJTPiLMJuh6q9ed9_E_XoplRoyrspZ71ro0uZck4Oi0wzP1eXATvG9mc_u6oCjdg/exec"};
